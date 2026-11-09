@@ -13,7 +13,7 @@
     "@prisma/client": "^7.10.1",
     "@stripe/stripe-js": "^10.2.1",
     "next": "14.2.3",
-    "prisma": "^8.0.0-rc.33",
+    "prisma": "^7.10.0",
     "react": "^18",
     "react-dom": "^18",
     "resend": "^6.37.0",
