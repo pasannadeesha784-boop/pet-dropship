@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@prisma/client": "^7.10.1",
+    "@stripe/stripe-js": "^10.2.1",
+    "prisma": "^8.0.0-rc.33",
+    "resend": "^6.37.0",
+    "stripe": "^23.1.0",
+    "zustand": "^5.1.0"
+  },
+  "scripts": {
+    "postinstall": "prisma skills sync || exit 0"
+  }
+}
